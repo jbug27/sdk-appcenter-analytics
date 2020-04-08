@@ -1,0 +1,14 @@
+{
+  "name": "com.fidelifdade.sdkappcenteranalytics",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "com.fidelifdade.sdkappcenteranalytics",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "",
+  "license": "ISC"
+}
